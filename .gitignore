@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/src/PalTracker/bin
+/src/PalTracker/obj
+/test/PalTrackerTests/obj
