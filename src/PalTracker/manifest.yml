@@ -2,6 +2,7 @@
 applications:
 - name: pal-tracker
   path: src/PalTracker/bin/Release/netcoreapp2.1/publish/
-  random-route: true
+  routes:
+  - route: pal-tracker-rcf-dev.apps.pikes.pal.pivotal.io
   env:
-    WELCOME_MESSAGE: Hello from Cloud Foundry
+    WELCOME_MESSAGE: Hello from the review environment
