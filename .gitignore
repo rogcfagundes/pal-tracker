@@ -6,3 +6,4 @@
 /src/PalTracker/bin
 /src/PalTracker/obj
 /test/PalTrackerTests/obj
+/test/PalTrackerTests/bin/Debug/netcoreapp2.1
